@@ -13,4 +13,13 @@
 - 🎶 I'm passionate about music.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siaandev&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siaandev&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats) --->
+
+## Languages and Tools.
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
+![VScode](https://img.shields.io/badge/-Vscode-000000?style=flat&logo=vscode)

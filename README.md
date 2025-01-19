@@ -50,7 +50,7 @@
     <img align="left" alt="Shubhamdeep Jha | Twitter" width="100px" src="https://i.imgur.com/0wHXGlj.jpeg" />
   </a>
   <a href="https://www.instagram.com/juannrgz/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="100px" src="https://i.imgur.com/PJ9P7C9.jpeg" />
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="100px" src="https://i.imgur.com/AlGtwxe.jpeg" />
   </a>
   <a href="mailto:siaandev@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="100px" src="https://i.imgur.com/aEgZLRC.jpeg" />
@@ -58,4 +58,7 @@
   <a href="https://open.spotify.com/user/09yowf885k4ygtiq2ioc3zaxj">
     <img align="left" alt="Shubhamdeep Jha | Spotify" width="100px" src="https://i.imgur.com/ykq7frO.jpeg" />
   </a>
+  
+  <br>
+  
 made with ❤ by [siaandev](https://github.com/siaandev)

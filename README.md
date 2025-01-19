@@ -50,7 +50,7 @@
     <img align="left" alt="Shubhamdeep Jha | Twitter" width="150px" src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" />
   </a>
   <a href="https://www.instagram.com/juannrgz/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="120px" src="https://i.imgur.com/XIFb0LQ.png" />
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="120px" src="https://i.imgur.com/PJ9P7C9.jpeg" />
   </a>
   <a href="mailto:siaandev@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="100px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />

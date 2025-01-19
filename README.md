@@ -19,6 +19,8 @@
 
 ## 🛠 Languages and Tools.
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siaandev&title_color=2257EA&bg_color=f7f7f7&hide=html,css" align="right"  /> 
+
 <p>
   
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -26,7 +28,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siaandev&title_color=2257EA&bg_color=f7f7f7&hide=html,css" align="right"  /> 
+
 <p>
   
   ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)

@@ -47,18 +47,18 @@
 ## 📨 Keep in touch.
 
   <a href="https://x.com/siaandev">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="95px" src="https://i.imgur.com/0wHXGlj.jpeg" />
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="95px" src="https://i.imgur.com/0wHXGlj.jpeg" style="border-radius: 20px;"/>
   </a>
   <a href="https://www.instagram.com/juannrgz/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="100px" src="https://i.imgur.com/AlGtwxe.jpeg" />
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="100px" src="https://i.imgur.com/AlGtwxe.jpeg" style="border-radius: 20px;" />
   </a>
   <a href="mailto:siaandev@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="100px" src="https://i.imgur.com/aEgZLRC.jpeg" />
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="100px" src="https://i.imgur.com/aEgZLRC.jpeg" style="border-radius: 20px;" />
   </a>
   <a href="https://open.spotify.com/user/09yowf885k4ygtiq2ioc3zaxj">
-    <img align="left" alt="Shubhamdeep Jha | Spotify" width="100px" src="https://i.imgur.com/ykq7frO.jpeg" />
+    <img align="left" alt="Shubhamdeep Jha | Spotify" width="100px" src="https://i.imgur.com/ykq7frO.jpeg" style="border-radius: 20px;" />
   </a>
   
-  <br>
-  
-made with ❤ by [siaandev](https://github.com/siaandev)
+<div style="clear: both; margin-top: 20px;">
+  made with ❤ by <a href="https://github.com/siaandev">siaandev</a>
+</div>

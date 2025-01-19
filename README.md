@@ -30,5 +30,5 @@
 <p>
   
   ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
-  ![VScode](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visualstudiocode)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visualstudiocode)
 </p>

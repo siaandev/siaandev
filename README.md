@@ -31,4 +31,6 @@
   
   ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visualstudiocode)
+  ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobephotoshop)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm)
 </p>

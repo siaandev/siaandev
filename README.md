@@ -47,13 +47,15 @@
 ## 📨 Keep in touch.
 
   <a href="https://x.com/siaandev">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="150px" src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" />
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="100px" src="https://i.imgur.com/0wHXGlj.jpeg" />
   </a>
   <a href="https://www.instagram.com/juannrgz/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="120px" src="https://i.imgur.com/PJ9P7C9.jpeg" />
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="100px" src="https://i.imgur.com/PJ9P7C9.jpeg" />
   </a>
   <a href="mailto:siaandev@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="100px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="100px" src="https://i.imgur.com/aEgZLRC.jpeg" />
   </a>
-
+  <a href="https://open.spotify.com/user/09yowf885k4ygtiq2ioc3zaxj">
+    <img align="left" alt="Shubhamdeep Jha | Spotify" width="100px" src="https://i.imgur.com/ykq7frO.jpeg" />
+  </a>
 made with ❤ by [siaandev](https://github.com/siaandev)

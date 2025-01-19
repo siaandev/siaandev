@@ -50,7 +50,7 @@
     <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/X.svg" />
   </a>
   <a href="https://www.instagram.com/juannrgz/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-Logo-2016.png" />
   </a>
   <a href="mailto:siaandev@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />

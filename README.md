@@ -37,5 +37,4 @@
 
 ## 🕹 Hobbies.
 
-| ![Minecraft](https://1000marcas.net/wp-content/uploads/2020/01/Minecraft-Logo-2013.png) | ![Twitch](https://pngimg.com/d/twitch_PNG34.png) | ![Fullmetal Alchemist Brotherhood](https://static.wikia.nocookie.net/logopedia/images/c/c8/FMA_Brotherhood_-_logo.png/revision/latest?cb=20130923075328) |  |
-
+<img src="https://i.imgur.com/DHKby6b.png" alt="hobbies" align="center" width="auto" height="auto" />

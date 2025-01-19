@@ -12,6 +12,5 @@
 - 🎥 I am an anime enthusiast.
 - 🎶 I'm passionate about music.
 
-### Spotify Playing 🎧
 
-[![Spotify](https://open.spotify.com/user/09yowf885k4ygtiq2ioc3zaxj)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siaandev&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)

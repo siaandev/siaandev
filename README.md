@@ -4,8 +4,8 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=siaandev&show_icons=true" alt="siaan's GitHub stats" align="right" />
-- :house: I'm currently living at León, Spain 🇪🇸.
-- :computer: I'm currently learning Python🐍.
-- :dart: My main goal is to become a great data scientist.
-- :video_game: I love video games.
-- :coffee: I am a coffee enthusiast.
+- :pin: I'm currently living at León, Spain 🇪🇸.
+- 💻: I'm currently learning Python🐍.
+- 🎯: My main goal is to become a great data scientist.
+- 🎮: I love video games.
+- 🎥: I am an anime enthusiast.

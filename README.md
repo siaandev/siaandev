@@ -35,10 +35,7 @@
   ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobephotoshop)
 </p>
 
-<p align="right">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siaandev&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siaandev&title_color=2257EA&bg_color=f7f7f7&hide=html,css" align="right"  /> 
 
 ## 🕹 Hobbies.
 

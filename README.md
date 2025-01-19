@@ -8,10 +8,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=siaandev&show_icons=true" alt="siaan's GitHub stats" align="right" />
 
 - 📌 I'm currently living in León, Spain 🇪🇸.
-- 💻 I'm currently learning Python 🐍.
+- 💻 I'm a high school student learning Python 🐍.
 - 🎯 My main goal is to become a great data scientist.
 - 🎮 I love video games.
-- 🎥 I am an anime enthusiast.
+- 🎥 I'm an anime enthusiast.
 - 🎶 I'm passionate about music.
 
 
@@ -46,10 +46,14 @@
 
 ## 📨 Keep in touch.
 
-
-
+  <a href="https://x.com/siaandev">
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/X.svg" />
+  </a>
+  <a href="https://www.instagram.com/juannrgz/">
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:siaandev@gmail.com">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
 
 made with ❤ by [siaandev](https://github.com/siaandev)
-
-
- 

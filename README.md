@@ -46,17 +46,13 @@
 
 ## 📨 Keep in touch.
 
-<style>
-  .rounded-img {
-    border-radius: 10px;
-  }
-</style>
+
 
 <div align="center">
   <a href="https://x.com/siaandev">
     <img class="rounded-img" alt="Twitter" width="95px" src="https://i.imgur.com/0wHXGlj.jpeg" />
   </a>
-  <a href="https://www.instagram.com/juannrgz/" style="margin-left: 10px;">
+  <a href="https://www.instagram.com/juannrgz/" style="margin-left: border-radius="10px">
     <img class="rounded-img" alt="Instagram" width="100px" src="https://i.imgur.com/AlGtwxe.jpeg" />
   </a>
   <a href="mailto:siaandev@gmail.com" style="margin-left: 10px;">

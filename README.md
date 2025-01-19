@@ -19,9 +19,16 @@
 
 ## 🛠 Languages and Tools.
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
-![VScode](https://img.shields.io/badge/-Vscode-000000?style=flat&logo=vscode)
+<p>
+  
+  ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+</p>
+
+<p>
+  
+  ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
+  ![VScode](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visualstudiocode)
+</p>

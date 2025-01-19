@@ -41,4 +41,4 @@
 
 ## 🕹 Hobbies.
 
-<img src="https://i.imgur.com/DHKby6b.png" alt="hobbies" align="center" width="auto" height="auto" />
+<img src="https://i.imgur.com/rHAA3uJ.png" alt="hobbies" align="center" width="auto" height="auto" />

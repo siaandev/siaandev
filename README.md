@@ -47,7 +47,7 @@
 ## 📨 Keep in touch.
 
   <a href="https://x.com/siaandev">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="100px" src="https://i.imgur.com/0wHXGlj.jpeg" />
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="95px" src="https://i.imgur.com/0wHXGlj.jpeg" />
   </a>
   <a href="https://www.instagram.com/juannrgz/">
     <img align="left" alt="Shubhamdeep Jha | Instagram" width="100px" src="https://i.imgur.com/AlGtwxe.jpeg" />

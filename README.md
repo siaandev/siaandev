@@ -34,3 +34,11 @@
   ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm)
   ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobephotoshop)
 </p>
+
+## 🕹 Hobbies.
+
+| ![Minecraft](https://1000marcas.net/wp-content/uploads/2020/01/Minecraft-Logo-2013.png) | ![Twitch](https://link_a_tu_imagen_de_twitch.png) | ![Fullmetal Alchemist Brotherhood](https://link_a_tu_imagen_de_fullmetal_alchemist.png) |  |
+|-------------------------------------------------------|--------------------------------------------------|-------------------------------------------------------------|---|
+|                                                       |                                                  |                                                             |   |
+|                                                       |                                                  |                                                             |   |
+|                                                       |                                                  |                                                             |   |

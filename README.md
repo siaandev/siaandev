@@ -47,13 +47,13 @@
 ## 📨 Keep in touch.
 
   <a href="https://x.com/siaandev">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/X.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="100px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/X.svg" />
   </a>
   <a href="https://www.instagram.com/juannrgz/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-Logo-2016.png" />
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="100px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-Logo-2016.png" />
   </a>
   <a href="mailto:siaandev@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="100px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
 made with ❤ by [siaandev](https://github.com/siaandev)

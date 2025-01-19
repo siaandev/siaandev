@@ -47,7 +47,7 @@
 ## 📨 Keep in touch.
 
   <a href="https://x.com/siaandev">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="100px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/X.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="100px" src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" />
   </a>
   <a href="https://www.instagram.com/juannrgz/">
     <img align="left" alt="Shubhamdeep Jha | Instagram" width="100px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-Logo-2016.png" />

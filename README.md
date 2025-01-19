@@ -11,3 +11,7 @@
 - 🎮 I love video games.
 - 🎥 I am an anime enthusiast.
 - 🎶 I'm passionate about music.
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/09yowf885k4ygtiq2ioc3zaxj)

@@ -46,18 +46,24 @@
 
 ## 📨 Keep in touch.
 
+<style>
+  .rounded-img {
+    border-radius: 10px;
+  }
+</style>
+
 <div align="center">
   <a href="https://x.com/siaandev">
-    <img alt="Twitter" width="95px" src="https://i.imgur.com/0wHXGlj.jpeg" style="border-radius: 20px;" />
+    <img class="rounded-img" alt="Twitter" width="95px" src="https://i.imgur.com/0wHXGlj.jpeg" />
   </a>
-  <a href="https://www.instagram.com/juannrgz/" style="margin-left: 20px;">
-    <img alt="Instagram" width="100px" src="https://i.imgur.com/AlGtwxe.jpeg" style="border-radius: 20px;" />
+  <a href="https://www.instagram.com/juannrgz/" style="margin-left: 10px;">
+    <img class="rounded-img" alt="Instagram" width="100px" src="https://i.imgur.com/AlGtwxe.jpeg" />
   </a>
-  <a href="mailto:siaandev@gmail.com" style="margin-left: 20px;">
-    <img alt="Gmail" width="100px" src="https://i.imgur.com/aEgZLRC.jpeg" style="border-radius: 20px;" />
+  <a href="mailto:siaandev@gmail.com" style="margin-left: 10px;">
+    <img class="rounded-img" alt="Gmail" width="100px" src="https://i.imgur.com/aEgZLRC.jpeg" />
   </a>
   <a href="https://open.spotify.com/user/09yowf885k4ygtiq2ioc3zaxj" style="margin-left: 10px;">
-    <img alt="Spotify" width="100px" src="https://i.imgur.com/ykq7frO.jpeg" style="border-radius: 20px;" />
+    <img class="rounded-img" alt="Spotify" width="100px" src="https://i.imgur.com/ykq7frO.jpeg" />
   </a>
 </div>
 
@@ -66,4 +72,3 @@
 <div align="center">
   made with ❤ by <a href="https://github.com/siaandev">siaandev</a>
 </div>
-

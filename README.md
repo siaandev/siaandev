@@ -66,5 +66,5 @@
 <br><br>
 
 <div align="center">
-  made with ❤ by <a href="https://github.com/siaandev">siaandev</a>
+  made with ❤ by <a href="https://github.com/siaandev">siaan</a>
 </div>

@@ -9,7 +9,7 @@
 
 - 📌 I'm currently living in León, Spain 🇪🇸.
 - 💻 I'm a high school student learning Python 🐍.
-- 🎯 My main goal is to become a great data scientist.
+- 🎯 My main goal is to become a Full-stack developer.
 - 🎮 I love video games.
 - 🎥 I'm an anime enthusiast.
 - 🎶 I'm passionate about music.

@@ -28,7 +28,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siaandev&title_color=1b2631&bg_color=d6eaf8&hide=html,css" align="right"  /> 
 
-<br><br>
+<br>
 
 <p>
   
@@ -37,7 +37,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 </p>
-
+<br>
 <p>
   
   ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
@@ -46,7 +46,7 @@
   ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobephotoshop)
 </p>
 
-
+<br>
 
 ## 🕹 Hobbies.
 

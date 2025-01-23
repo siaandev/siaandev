@@ -1,9 +1,9 @@
-<!-- 
+<!---
 <picture>
   <source srcset="dark-mode-image.svg" media="(prefers-color-scheme: dark)">
   <img src="light-mode-image.svg" alt="Image for light mode">
 </picture>
--->
+--->
 
 <p align="center">
   <img src="https://i.imgur.com/a6DhlfX.png" width="500" height="auto" style="display: block; margin: 0 auto"/>

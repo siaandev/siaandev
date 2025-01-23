@@ -12,7 +12,7 @@
 ## ⭐ About me.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=siaandev&title_color=f7f7f7&bg_color=#a2d9ce&show_icons=true" alt="siaan's GitHub stats" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=siaandev&title_color=1b2631&bg_color=aed6f1&show_icons=true" alt="siaan's GitHub stats" align="right" />
 
 - 📌 I'm currently living in León, Spain 🇪🇸.
 - 💻 I'm a high school student learning Python 🐍.
@@ -26,7 +26,7 @@
 
 ## 🛠 Languages and Tools.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siaandev&title_color=f7f7f7&bg_color=#a2d9ce&hide=html,css" align="right"  /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siaandev&title_color=1b2631&bg_color=aed6f1&hide=html,css" align="right"  /> 
 
 <p>
   
